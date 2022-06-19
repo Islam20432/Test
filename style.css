@@ -1,3 +1,9 @@
 .cool {
     text-decoration: underline;
 }
+.col {
+    background-color: aqua;
+    padding: 1rem;
+    color:white;
+    border: 2px solid white;
+}
